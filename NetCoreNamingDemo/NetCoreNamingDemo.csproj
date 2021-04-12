@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="nacos-sdk-csharp.AspNetCore" Version="1.0.2" />
+    <PackageReference Include="nacos-sdk-csharp.AspNetCore" Version="1.0.3-alpha20210323095902" />
   </ItemGroup>
 
 </Project>
